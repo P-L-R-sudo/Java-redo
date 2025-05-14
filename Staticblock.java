@@ -40,6 +40,3 @@ public class Staticblock {
         obj1.show(); // Will now also show "Blue"
     }
 }
-
-
-

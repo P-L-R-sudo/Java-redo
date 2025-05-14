@@ -1,5 +1,5 @@
 public class Loop {
-    public static void main (String[] args) {
+    public static void main(Strings[] args) {
         int i = 1;
         while (i <= 2) {
             System.out.println("Hi " + i);
@@ -7,9 +7,8 @@ public class Loop {
             while (j <= 3) {
                 System.out.println("Hello " + j);
                 j++;
+            }
+            i++;
         }
-        i++;
     }
 }
-}
-
